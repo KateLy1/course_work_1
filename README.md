@@ -8,3 +8,5 @@
 В папке кластеризаиция проводится кластеризация по отзывам clean_reviews.ipynb входной файл reviews2.csv и по характеристикам новостроек clean_buildings.ipynb входной файл buildings.csv.
 
 В папке классификация_новостроек находятся два способа классификации новостроек: через api гигачата classes_buildings.ipynb (результат buildings_classes.csv) и через определенные условия classes_buildings.ipynb(cond) (результат buildings_classified_optimal_value2.csv).
+
+В папке лин_модели в файле lin_models.ipynb сожержится код с выявлением значимости атрибутов для цены и отрисовкой карт ценнсотей.
